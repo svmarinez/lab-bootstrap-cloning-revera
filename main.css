@@ -43,7 +43,7 @@ header {
     
 }
 .card-body {
-    color: #fff;
+    color: black;
     text-align: center;
     padding: 3.2em;
     margin: 0;
@@ -60,3 +60,8 @@ header {
     width: 5%;
     height: auto;
 }
+
+.card2{
+    background-color: white;
+}
+
